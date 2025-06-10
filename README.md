@@ -1,1 +1,1 @@
-https://anurdin01.github.io/rag
+https://anurdin01.github.io/rag-demo
